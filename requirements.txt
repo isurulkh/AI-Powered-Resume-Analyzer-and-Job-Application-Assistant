@@ -1,0 +1,6 @@
+gradio
+fitz
+Pillow
+google-generativeai
+python-dotenv
+PyMuPDF
