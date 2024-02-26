@@ -24,7 +24,7 @@ Our tool utilizes advanced machine learning models to parse resumes, generate in
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/isurulkh/AI-Powered-Resume-Analyzer-and-Job-Application-Assistant.git
 2.**Create a virtual environment:**
 
   ```bash
